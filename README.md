@@ -76,23 +76,6 @@ A web application for searching and displaying GitHub user information using the
 **Tech:** React.js • JavaScript • GitHub API
 
 ---
-
-### 🤖 FaceSenseAI
-
-An AI-based project focused on face-related interaction and detection.
-
-**Tech:** Python • AI/ML
-
----
-
-### 🌐 Personal Portfolio
-
-My personal developer portfolio showcasing my skills, projects and development journey.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
 ## 🌱 Currently Learning
 
 ```text
